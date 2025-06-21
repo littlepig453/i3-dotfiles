@@ -3,7 +3,7 @@ Repo containing my dotfiles
 ## Programs
 - Distro: [Arch Linux](https://archlinux.org/)
 - WM: [i3](https://i3wm.org/)
-- Terminal: [alacritty](https://wiki.archlinux.org/title/Alacritty)
+- Terminal: [Alacritty](https://wiki.archlinux.org/title/Alacritty)
 - Text editor: [Vim](https://wiki.archlinux.org/title/Vim)
 - Web browser: [Librewolf](https://librewolf.net/)
 - Media player: [mpv](https://wiki.archlinux.org/title/Mpv)
