@@ -11,14 +11,13 @@ imap @R <esc>:keepp /<++><CR>ca<
 vnoremap <C-c> "+y
 map <C-p> "+p
 
-" This is for me not to get annoyed in English
 autocmd FileType tex set wrap linebreak wrapmargin=55
 
 " This is for spellcheck and spelling in those documents as well
 " partly taken from castel.dev
 autocmd FileType tex set spell
 
-" Compile document (taken from voidrice)
+" Compile document
 map @c :w! \| !pdflatex "%"<CR>
 map @C :w! \| !pdflatex "%"<CR>
 map @p :!opout "%:p"<CR>

@@ -24,7 +24,7 @@ alias c='clear'
 alias du='du -sh'
 alias z='zathura 2>/dev/null'
 
-# For newsboat and ytfzf and other social interaction things
+# For newsboat and a yt script I made
 alias n='newsboat'
 alias yt='$HOME/.config/newsboat/yt.sh'
 
