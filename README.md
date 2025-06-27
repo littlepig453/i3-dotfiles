@@ -11,4 +11,4 @@ Repo containing my dotfiles
 - Music: [ncspot](https://github.com/hrkfdn/ncspot)
 - Theming: [lxappearance](https://github.com/lxde/lxappearance/)
 
-**See the `programs.txt` file for some applications I use!**
+**See the `programs.txt` file for the output of `pacman -Q | cut -f 1 -d " "`, i.e. my applications installed!**
