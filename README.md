@@ -10,6 +10,8 @@ Repo containing my dotfiles
 - Document viewer: [zathura](https://wiki.archlinux.org/title/Zathura)
 - Fetch: [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - Music: [ncspot](https://github.com/hrkfdn/ncspot)
+- Networking: [NetworkManager](https://wiki.archlinux.org/title/NetworkManager)
+- DNS Server/Cacher: [systemd-resolved](https://wiki.archlinux.org/title/Systemd-resolved)
 - Theming: [lxappearance](https://github.com/lxde/lxappearance/)
 
 **See the `programs.txt` file for the output of `pacman -Q | cut -f 1 -d " "`, i.e. my applications installed!**
