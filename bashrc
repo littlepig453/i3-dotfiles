@@ -24,10 +24,6 @@ alias c='clear'
 alias du='du -sh'
 alias z='zathura 2>/dev/null'
 
-# For newsboat and ytfzf and other social interaction things
-alias n='newsboat'
-alias yt='$HOME/.config/newsboat/yt.sh'
-
 # Custom utilities
 alias l20="expac --timefmt='%Y-%m-%d %T' '%l\t%n' | sort | tail -n 20"
 
