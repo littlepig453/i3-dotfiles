@@ -24,15 +24,13 @@ alias c='clear'
 alias du='du -sh'
 alias z='zathura 2>/dev/null'
 
-# For newsboat and a yt script I made
+# For newsboat and ytfzf and other social interaction things
 alias n='newsboat'
 alias yt='$HOME/.config/newsboat/yt.sh'
 
 # Custom utilities
 alias l20="expac --timefmt='%Y-%m-%d %T' '%l\t%n' | sort | tail -n 20"
 
-# For dmenu
-export LC_CTYPE="en_US.utf8"
 # For Skyrim SE mods and stuff, wine and winetricks ENVs
 export WINE="/usr/bin/wine"
 export WINETRICKS="/usr/bin/winetricks"
