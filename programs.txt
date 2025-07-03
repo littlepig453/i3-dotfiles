@@ -32,7 +32,9 @@ binutils
 bison
 blas
 bleachbit
+bluez
 bluez-libs
+bluez-utils
 boost-libs
 breeze-icons
 brlaser
@@ -612,7 +614,6 @@ ncurses
 neon
 nettle
 networkmanager
-newsboat
 ninja
 nlopt
 nmap
@@ -800,7 +801,6 @@ srt
 startup-notification
 steam
 stellarium
-stfl
 sudo
 supertuxkart
 svt-av1
