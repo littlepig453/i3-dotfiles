@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo systemctl start cups
+sudo systemctl start cups-browsed
+sudo systemctl start avahi-daemon

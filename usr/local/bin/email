@@ -1,0 +1,6 @@
+#!/bin/bash
+librewolf "https://mail.google.com/mail/u/0/" &
+sleep 1
+librewolf "https://mail.google.com/mail/u/1/" &
+sleep 1
+librewolf "https://mail.google.com/mail/u/2/" &

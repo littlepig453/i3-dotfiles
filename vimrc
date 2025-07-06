@@ -14,7 +14,6 @@ map <C-p> "+p
 autocmd FileType tex set wrap linebreak wrapmargin=55
 
 " This is for spellcheck and spelling in those documents as well
-" partly taken from castel.dev
 autocmd FileType tex set spell
 
 " Compile document

@@ -1,0 +1,4 @@
+#!/bin/bash
+# Simple script for launching alvr in Downloads dir
+# Note: you should not remove alvr from Downloads directory
+$HOME/Downloads/alvr_streamer_linux/bin/alvr_dashboard &
