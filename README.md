@@ -1,4 +1,4 @@
-# My dotfiles
+# My dotfiles (old i3 ones; I switched to KDE Plasma)
 Repo containing my dotfiles
 ## Programs
 - Distro: [Arch Linux](https://archlinux.org/)
