@@ -26,7 +26,3 @@ alias z='zathura 2>/dev/null'
 
 # Custom utilities
 alias l20="expac --timefmt='%Y-%m-%d %T' '%l\t%n' | sort | tail -n 20"
-
-# For Skyrim SE mods and stuff, wine and winetricks ENVs
-export WINE="/usr/bin/wine"
-export WINETRICKS="/usr/bin/winetricks"

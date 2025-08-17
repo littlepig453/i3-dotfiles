@@ -1,5 +1,0 @@
-#!/bin/bash
-killall steamwebhelper
-killall vrmonitor
-killall vrserver
-killall steam
