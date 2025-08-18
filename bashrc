@@ -21,7 +21,6 @@ alias l='ls'
 alias s='ls'
 alias sl='ls'
 alias c='clear'
-alias du='du -sh'
 alias z='zathura 2>/dev/null'
 
 # Custom utilities
